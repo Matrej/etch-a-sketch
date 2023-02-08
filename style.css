@@ -4,10 +4,12 @@
 body {
     margin: 0;
     position: relative;
+    background-color: black;
 }
 
 .column {
-    border: 0px solid gray;
+    border: 1px solid lightgray;
+    background-color: white;
 
 }
 .row {
